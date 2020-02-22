@@ -1,0 +1,8 @@
+11:58:06.422 [main] INFO  Tests.act - Successfully switched to frame
+11:58:06.446 [main] DEBUG Tests.act - Identifying Draggable objects
+11:58:06.781 [main] INFO  Tests.act - Drag and drop success
+12:46:13.136 [main] DEBUG Tests.AddToCartProgram - System setting chrome driver
+12:46:16.386 [main] INFO  Tests.AddToCartProgram - maximizing window
+12:46:26.229 [main] INFO  Tests.AddToCartProgram - veggies retreived
+12:46:26.231 [main] DEBUG Tests.AddToCartProgram - getting text
+12:46:26.429 [main] DEBUG Tests.AddToCartProgram - product clicked
